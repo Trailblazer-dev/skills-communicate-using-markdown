@@ -10,3 +10,6 @@ continues
 continues
 ###### This is h6 tag
 the end
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+ don't leave a space after the block blackets!
